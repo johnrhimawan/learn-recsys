@@ -1,3 +1,3 @@
 # learn-recsys
 
-Test if markdown supports $\LaTex$
+Test if markdown supports $\LaTex{}$
