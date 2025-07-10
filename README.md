@@ -1,3 +1,3 @@
-# learn-recsys
+# Learn Recommender Systems
 
-Test if markdown supports $\sqrt{x}$
+Using this repository to learn more about recommendation systems
